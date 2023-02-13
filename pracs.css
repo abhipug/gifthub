@@ -1,0 +1,32 @@
+.NavBar{
+    color: gold;
+    background-color: black;
+    padding:2%;
+}
+.NavBar h1{
+    color:blue;
+    text-align: center;
+    font-size:400%;
+}
+.NavBar a{
+    color: red;
+}
+.fontb{
+    font-size: 200%;
+    text-align: center;
+    font-weight: bolder;
+    display: flex;
+    list-style-type: none;
+    width: 100px;
+    padding-left: 100px;
+}
+.fontb li:hover{
+    background-color: white;
+}
+.fontb a{
+    color: lawngreen;
+    padding:100px;
+}
+.fontb a:hover{
+    color:black;
+}
